@@ -18,4 +18,9 @@ public class MavenTest {
 		public void hello2(){
 			System.out.println("this is my first maven test");
 		}
+		
+		@Test
+		public void hello3(){
+			System.out.println("this is my first maven test");
+		}
 }
